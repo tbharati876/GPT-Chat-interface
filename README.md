@@ -29,5 +29,4 @@ To build a simple, GPT-like chat interface that helps users discover real-estate
 
 ---
 
-##  Project Structure
 
