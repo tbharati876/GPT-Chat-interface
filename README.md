@@ -7,7 +7,7 @@ The chatbot understands **natural language queries** like:
 
 > "3BHK flat in Pune under ₹1.2 Cr"
 
-and responds with:
+and responding with:
 - A short **summary** of results based on real project data (from CSVs)
 - A list of **relevant property cards** with name, city, BHK, price, and status
 
@@ -23,9 +23,9 @@ To build a simple, GPT-like chat interface that helps users discover real-estate
 
  **Natural Query Parsing** — Extracts city, BHK, and budget using regex  
  **CSV-based Search** — Reads property data from CSV files only  
- **Auto-generated Summaries** — Data-grounded text, no hallucinations  
+ **Auto-generated Summaries** — Data-grounded text
  **Streamlit Chat Interface** — Simple, responsive chat UI  
- **Deployable from Google Colab or Streamlit Cloud** — No API tokens required  
+ **Deployable from Google Colab or Streamlit Cloud** 
 
 ---
 
